@@ -1,5 +1,6 @@
 .env
 data_for_fashion_clip/
 data.zip
-.ipynb_checkpoints/ 
+.ipynb_checkpoints/
 .chroma/
+.backup/
