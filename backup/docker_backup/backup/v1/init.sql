@@ -1,2 +1,0 @@
-CREATE DATABASE vectordb;
-GRANT ALL PRIVILEGES ON DATABASE vectordb TO vectordb;
