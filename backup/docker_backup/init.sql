@@ -1,0 +1,3 @@
+CREATE USER vectordb WITH PASSWORD 'vectordb';
+CREATE DATABASE vectordb;
+GRANT ALL PRIVILEGES ON DATABASE vectordb TO vectordb;
